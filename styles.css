@@ -1,0 +1,11 @@
+p {
+    background-color: yellow;
+    padding: 15px 10px 40px;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.middle {
+    background-color: #ff0062;
+    border: .8px solid black;
+}
