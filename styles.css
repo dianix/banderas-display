@@ -1,11 +1,10 @@
 p {
     background-color: yellow;
-    padding: 15px 10px 40px;
+    padding: 10px 20px 5px 5px;
     font-family: 'Open Sans', sans-serif;
-    width: 200px;
-    margin-left: auto;
-    margin-right: auto;
     font-size: 20px;
+    display: inline-block;
+    margin-left: 10px;
 }
 
 .middle {
