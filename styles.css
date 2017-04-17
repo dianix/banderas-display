@@ -1,11 +1,13 @@
 p {
     background-color: yellow;
     padding: 15px 10px 40px;
-    margin: 0;
     font-family: 'Open Sans', sans-serif;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
 }
 
 .middle {
     background-color: #ff0062;
-    border: .8px solid black;
 }
